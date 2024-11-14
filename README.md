@@ -10,7 +10,7 @@ The goal of this project is to build an image classification model that accurate
 
 1. Clone the repository and navigate to the project directory:
 
-`git clone https://github.com/YOUR_USERNAME/food-vision.git cd food-vision`
+`git clone https://github.com/YOUR_USERNAME/food-vision.git cd food-vision`\
 `cd food-vision`
 
 2. Install the necessary packages:
